@@ -2,8 +2,8 @@
 I'm Alvin Johnson from the Notheast Bronx, and I'am an aspiring Software Engineer learning JavaScript, CSS and HTML. I have intermediate expercience in C# and currently I'am Learning The foundations of UX Design, Adobe XD & Figma.
 I love learning new things and overcoming complicated challenges. I'am a fan of open source software, popular mechanics, Fine dining and provocative humor. So much more more to come ... Stay tuned!
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lamb144&label=Profile%20views&color=0e75b6&style=flat" alt="lamb144" /> </p>
-
-- 📫 How to reach me **alvinjohnson144@gmail.com**
+<h1 align="center">Hola, I'm Alvin Johnosn</h1>
+- 📫 How to reach me **alvinjohnson144@gmail.com https://twitter.com/xsupreme**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,5 +17,6 @@ I love learning new things and overcoming complicated challenges. I'am a fan of 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lamb144&" alt="lamb144" /></p>
 
 
