@@ -2,9 +2,9 @@
 I'm Alvin Johnson from the Notheast Bronx, and I'am an aspiring Software Engineer learning JavaScript, CSS and HTML. I have intermediate expercience in C# and currently I'am Learning The foundations of UX Design, Adobe XD & Figma.
 I love learning new things and overcoming complicated challenges. I'am a fan of open source software, popular mechanics, Fine dining and provocative humor. So much more more to come ... Stay tuned!
 
-<h1 align="center">Hola, I'm Alvin Johnosn</h1>
-- 📫 How to reach me [Twitter-@xsupreme](https://twitter.com/xsupreme)
-
+<h1 align="center"
+- 📫 How to reach me 
+[Twitter](https://twitter.com/xsupreme)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/" height="30" width="40" /></a>
