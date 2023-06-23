@@ -1,6 +1,11 @@
 ###  
-I'm Alvin Johnson from the Notheast Bronx, and I want to be a Fullstack JavaScript Developer, I'am actively learning JavaScript, CSS and HTML. I have intermediate expercience in C# and I'am actively Learning The foundations of UX Design, Adobe XD & Figma.
-I love learning new things and overcoming complicated challenges. I'am a fan of open source software, popular mechanics and all new age technoligical advancements.
+Hi, I'm Alvin Johnson, a full-stack JavaScript developer from the Northeast Bronx. I'm passionate about learning new technologies and building innovative solutions. I have a strong foundation in JavaScript, CSS, and HTML, and I'm also proficient in Java and C#. I'm currently working on expanding my knowledge of React, Node.js, and other backend technologies.
+
+I'm a lifelong learner who loves to challenge myself. I'm always looking for new ways to improve my skills and knowledge. I'm also a big fan of open source software and I'm always interested in learning about new technological advancements.
+
+I'm confident that I have the skills and drive to be a successful full-stack developer. I'm a hard worker and I'm always willing to go the extra mile. I'm also a team player and I'm always eager to collaborate with others.
+
+I'm excited to see what the future holds for me as a full-stack developer. I'm confident I can make a significant contribution to the tech industry.
 
 
 
