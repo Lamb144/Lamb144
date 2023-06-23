@@ -20,6 +20,8 @@ I'm excited to see what the future holds for me as a full-stack developer. I'm c
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamb144&show_icons=true&locale=en" alt="lamb144" /></p>
 
+<figure><embed src="https://wakatime.com/share/@Lamb144/18a0b5f1-f418-4b8f-b621-8f3a7ca705db.svg"></embed></figure>
+
 
 
 
