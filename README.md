@@ -19,7 +19,7 @@ I'm excited to see what the future holds for me as a full-stack developer. I'm c
 <a href="https://wakatime.com/@6eb899e9-07bd-4c7e-9d02-9f3f43d63f19"><img src="https://wakatime.com/badge/user/6eb899e9-07bd-4c7e-9d02-9f3f43d63f19.svg" alt="Total time coded since Apr 28 2023" /></a>
 <p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lamb144&show_icons=true&locale=en" alt="lamb144" /></p>
+<p>&nbsp;<img align="center" src="https://wakatime.com/share/@Lamb144/d0425de5-0e8a-4b50-b82d-9576850bd473.svg" alt="lamb144" /></p>
 
 
 
